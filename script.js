@@ -17,4 +17,4 @@ const createStar = () => {
     });
 };
 
-setInterval(createStar, 100);
+setInterval(createStar, 200);

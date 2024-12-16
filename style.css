@@ -115,9 +115,9 @@ h1 {
 }
 
 .boton-png {
-    width: 90px;
-    height: 90px;
-    background: url('https://blogger.googleusercontent.com/img/a/AVvXsEjkSaeKiMUihBLHxr4fCGzezSd75yQQM4uiaoHxix-bLbVsmQcHwPyZX8UF0BjEHRmabGNR2q84Ef5r9kYxU36zFGzwQMG8lefPUzC5VXZhHovQ7jqG-Q-IGY-6H4Sm-Qf_q1O-VmIUqTYqd_hPhxMyEHAQ_hXrAvZrnR43OIep5GGJGnuwARNlqDQnpsPV');
+    width: 70px;
+    height: 70px;
+    background: url('https://blogger.googleusercontent.com/img/a/AVvXsEjkSaeKiMUihBLHxr4fCGzezSd75yQQM4uiaoHxix-bLbVsmQcHwPyZX8UF0BjEHRmabGNR2q84Ef5r9kYxU36zFGzwQMG8lefPUzC5VXZhHovQ7jqG-Q-IGY-6H4Sm-Qf_q1O-VmIUqTYqd_hPhxMyEHAQ_hXrAvZrnR43OIep5GGJGnuwARNlqDQnpsPV'); no repeat
     background-size: contain;
     border: none;
     cursor: pointer;
